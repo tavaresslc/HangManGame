@@ -28,6 +28,7 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 3. Compile o código e execute usando os seguintes comandos:
 
    `g++ -o jogo_da_forca jogo_da_forca.cpp`
+   
    `./jogo_da_forca`
 
 ##Contribuições
