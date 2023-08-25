@@ -30,6 +30,3 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
    `g++ -o jogo_da_forca jogo_da_forca.cpp`
    
    `./jogo_da_forca`
-
-##Contribuições
-Contribuições são bem-vindas! Se você encontrar problemas ou tiver melhorias para sugerir, sinta-se à vontade para abrir uma issue ou enviar um pull request.
