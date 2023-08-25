@@ -27,6 +27,6 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 2. Navegue até o diretório onde o código-fonte está localizado.
 3. Compile o código e execute usando os seguintes comandos:
 
-   `g++ -o jogo_da_forca jogo_da_forca.cpp`
+   `g++ -o main main.cpp`
    
-   `./jogo_da_forca`
+   `./main`
