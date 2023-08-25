@@ -19,9 +19,9 @@ Ciência da Computação | Tarde | Puc Minas Coração Eucaristico
 
 ## Requisitos
 
+## Como Compilar e Executar
 - Compilador C++ para compilar o código-fonte.
 
-## Como Compilar e Executar
 
 1. Abra um terminal.
 2. Navegue até o diretório onde o código-fonte está localizado.
